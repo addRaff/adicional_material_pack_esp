@@ -34,7 +34,7 @@ recordarte cómo configurar los estilos de los elementos*/
 }
 
 .logo{
-
+ max-width: 20px;
 }
 
 .logo_place_header{
